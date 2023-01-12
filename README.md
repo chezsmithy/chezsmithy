@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chezsmithy
 - 👀 I’m interested in Docker, CircleCI, Enabling open source projects for mixed platform support.
-- 🌱 I’m currently learning Kafka.
+- 🌱 I’m currently learning Snowflake.
 - 💞️ I’m looking to collaborate on Open Source Projects where teams need to help scaling their CI/CD, or use of Docker.
-- 📫 You can reach me @chezsmith, or at chezsmithy at me.com
+- 📫 You can reach me @chezsmithy, or at chezsmithy at me.com
 
 <!---
 chezsmithy/chezsmithy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
