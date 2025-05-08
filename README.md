@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @chezsmithy
 - 👀 I’m interested in Docker, CircleCI, Enabling open source projects for mixed platform support.
 - 🌱 I’m currently learning Snowflake.
+- 👾 I'm actively contributikg to AI code assistant tools.
 - 💞️ I’m looking to collaborate on Open Source Projects where teams need to help scaling their CI/CD, or use of Docker.
 - 📫 You can reach me @chezsmithy, or at chezsmithy at me.com
 
